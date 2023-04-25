@@ -1,4 +1,4 @@
-import Qr from "../assets/image-qr-code.png";
+import Qr from "./image-qr-code.png";
 
 function QrCard() {
   return (
